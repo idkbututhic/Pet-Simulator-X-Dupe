@@ -1,10 +1,10 @@
 # Pet-Simulator-X-Dupe
 
 
-A simple dupe script.
+A simple dupe script (Exclusives/Gems/Mythical).
 
-.Working on 07/03/2022
+.Working on 03/21/2022
 
 .Bank: Tier 2-8.
 
-Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/Pet-Simulator-X-Dupe/main/Pet_SimX_Dupe_20.lua"))()```
+Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriBlox/Pet-Simulator-X-Dupe/main/Pet_SimX_Dupe_30.lua"))()```
