@@ -1,9 +1,7 @@
 # Pet-Simulator-X-Dupe
-
+# .Working on 04/11/2022
 
 A simple dupe script (Exclusives/Gems/Mythical).
-
-.Working on 04/09/2022
 
 .Bank: Tier 2-8.
 
